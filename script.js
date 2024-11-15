@@ -1,6 +1,6 @@
 function loveAccepted() {
     // Redirect to a new page after clicking "Yes"
-    window.location.href = "index.html";
+    window.location.href = "https://formychicago.vercel.app/";
 }
 
 function moveButton() {
